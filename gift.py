@@ -84,7 +84,7 @@ class ____MeNu____():
         print(f'\x1b[1;97m(\x1b[1;92mB\x1b[1;97m)\x1b[1;92m CONTACT WITH OWNER ')
         print(f'\x1b[1;97m(\x1b[1;92mC\x1b[1;97m)\x1b[1;92m JOIN WHATSAPP GROUP')
         print(f'\x1b[1;97m(\x1b[1;92mD\x1b[1;97m)\x1b[1;92m JOIN FACEBOOK PUBLIC GROUP');linex()
-        slp(2);_option_ = input(f'\x1b[1;97m(\x1b[1;92m?\x1b[1;97m)\x1b[1;92m CHOICE OPTIONS \x1b[1;95m━━━━━➤\x1b[1;97m ')
+        slp(2);___OptIon___ = input(f'\x1b[1;97m(\x1b[1;92m?\x1b[1;97m)\x1b[1;92m CHOICE OPTIONS \x1b[1;95m━━━━━➤\x1b[1;97m ')
         if ___OptIon___ in ['01','1','a','A']:____RanDom____()
         elif ___OptIon___ in ['02','2','b','B']:os.system('xdg-open https://facebook.com/YourRealPapa404');slp(2);____MeNu____()
         elif ___OptIon___ in ['03','3','c','C']:os.system('xdg-open https://m.me/j/AbYuKgQ8Xyu8DOcn/');slp(2);____MeNu____()
